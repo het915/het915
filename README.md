@@ -5,7 +5,7 @@ IoT and Robotics Engineer
 -------------------------
 
 # 💫 About Me:
-<br>🌍 I'm based in Ahmedabad ,India<br>✉️ You can contact me at het915@gmail.com<br>🚀 I'm currently working on Aliendry<br>🤝 I'm open to collaborating on Robotics Project
+<br>🌍 I'm based in Ahmedabad ,India<br>✉️ You can contact me at het915@gmail.com<br>🚀 I'm currently working on a stealth robotics project<br>🤝 I'm open to collaborating on Robotics Project
 
 
 ## 🌐 Socials:
