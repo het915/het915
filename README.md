@@ -6,7 +6,7 @@ Masters in Autonomy and Robotics
 -------------------------
 
 # 💫 About Me:
-You can contact me at het915@gmail.com <br> 🤝 I'm open to collaborating on Robotics Project
+You can contact me at hcp4@illinois.edu <br> 🤝 I'm open to collaborating on Robotics Project
 
 
 ## 🌐 Socials:
